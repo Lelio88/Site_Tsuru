@@ -2,7 +2,7 @@
 
 ## I. Finalité
 
-Pages web publiques de Tsuru (app d'apprentissage du japonais) : accueil, confidentialité, suppression des données, mentions légales. Elles fournissent les URL que la fiche Google Play exige. Le code de l'app est dans le dépôt privé `Tsuru`.
+Pages web publiques de Tsuru (app d'apprentissage du japonais) : accueil, confidentialité, suppression des données, conditions d'utilisation, mentions légales. Elles fournissent les URL que la fiche Google Play exige. Le code de l'app est dans le dépôt privé `Tsuru`.
 
 ## II. Architecture
 
